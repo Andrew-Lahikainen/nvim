@@ -64,4 +64,5 @@ require("lazy").setup({
 	},
 	-- Automatically check for plugin updates:
 	checker = { enabled = true },
+	rocks = { enabled = false },
 })
