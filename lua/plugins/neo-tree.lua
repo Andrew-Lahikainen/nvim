@@ -36,7 +36,7 @@ return {
 		{
 			"<leader>nt",
 			"<cmd>Neotree toggle<cr>",
-			desc = "Open NeoTree",
+			desc = "Toggle NeoTree",
 			mode = "n",
 		},
 		{
